@@ -30,6 +30,7 @@ input{
 }
 
 input[type="submit"]{
+    margin-bottom: 15px;
     background-color: rgb(89, 145, 218);
     color: white;
     cursor: pointer;
@@ -45,7 +46,7 @@ input[type="submit"]:hover{
 .error-message{
     color: red;
     font-size: 12px;
-    margin-top: -10%;
+    margin-top: -10px;
     margin-bottom: 10px;
     display: none;
 }
